@@ -1,0 +1,401 @@
+blockType	blockInstructions	blockNo	trialNoPerBlock	stimPath	stimType	stimRating	stimStatus	respCorrect	respKey	respOutcome	respRT
+health	Go = healthy    No-go = not healthy	0	0	FOODGNG_Images/0479.jpg	healthy	75	Go	space	None	0	NaN
+health	Go = healthy    No-go = not healthy	0	1	FOODGNG_Images/0763.jpg	healthy	95	Go	space	space	1	0.78163450001739
+health	Go = healthy    No-go = not healthy	0	2	FOODGNG_Images/0479.jpg	healthy	75	Go	space	space	1	0.549790099961683
+health	Go = healthy    No-go = not healthy	0	3	FOODGNG_Images/0263.jpg	healthy	80	Go	space	space	1	0.766299900016747
+health	Go = healthy    No-go = not healthy	0	4	FOODGNG_Images/0679.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	5	FOODGNG_Images/0199.jpg	healthy	80	Go	space	space	1	0.561943200009409
+health	Go = healthy    No-go = not healthy	0	6	FOODGNG_Images/0145.jpg	not healthy	10	NoGo	None	space	0	1.3621637999895
+health	Go = healthy    No-go = not healthy	0	7	FOODGNG_Images/0373.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	8	FOODGNG_Images/0263.jpg	healthy	80	Go	space	space	1	0.552941200032365
+health	Go = healthy    No-go = not healthy	0	9	FOODGNG_Images/0359.jpg	healthy	75	Go	space	space	1	0.793369999970309
+health	Go = healthy    No-go = not healthy	0	10	FOODGNG_Images/0796.jpg	healthy	85	Go	space	space	1	0.518149000010453
+health	Go = healthy    No-go = not healthy	0	11	FOODGNG_Images/0202.jpg	healthy	80	Go	space	space	1	0.854721300012898
+health	Go = healthy    No-go = not healthy	0	12	FOODGNG_Images/0479.jpg	healthy	75	Go	space	space	1	0.58475229999749
+health	Go = healthy    No-go = not healthy	0	13	FOODGNG_Images/0339.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	14	FOODGNG_Images/0199.jpg	healthy	80	Go	space	space	1	0.701868100033607
+health	Go = healthy    No-go = not healthy	0	15	FOODGNG_Images/0478.jpg	healthy	80	Go	space	space	1	0.743201299977954
+health	Go = healthy    No-go = not healthy	0	16	FOODGNG_Images/0196.jpg	healthy	85	Go	space	space	1	0.889484499988612
+health	Go = healthy    No-go = not healthy	0	17	FOODGNG_Images/0676.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	18	FOODGNG_Images/0763.jpg	healthy	95	Go	space	space	1	0.48546279995935
+health	Go = healthy    No-go = not healthy	0	19	FOODGNG_Images/0199.jpg	healthy	80	Go	space	space	1	0.522148999967612
+health	Go = healthy    No-go = not healthy	0	20	FOODGNG_Images/0676.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	21	FOODGNG_Images/0199.jpg	healthy	80	Go	space	space	1	0.423652499972377
+health	Go = healthy    No-go = not healthy	0	22	FOODGNG_Images/0796.jpg	healthy	85	Go	space	space	1	0.566634399991017
+health	Go = healthy    No-go = not healthy	0	23	FOODGNG_Images/0647.jpg	healthy	75	Go	space	space	1	0.716332100040745
+health	Go = healthy    No-go = not healthy	0	24	FOODGNG_Images/0919.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	25	FOODGNG_Images/0479.jpg	healthy	75	Go	space	space	1	0.467061600007582
+health	Go = healthy    No-go = not healthy	0	26	FOODGNG_Images/0138.jpg	not healthy	10	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	27	FOODGNG_Images/0529.jpg	healthy	85	Go	space	space	1	0.669789900013711
+health	Go = healthy    No-go = not healthy	0	28	FOODGNG_Images/0409.jpg	healthy	90	Go	space	space	1	0.596318500000052
+health	Go = healthy    No-go = not healthy	0	29	FOODGNG_Images/0196.jpg	healthy	85	Go	space	space	1	0.85001110000303
+health	Go = healthy    No-go = not healthy	0	30	FOODGNG_Images/0529.jpg	healthy	85	Go	space	space	1	0.620767399959732
+health	Go = healthy    No-go = not healthy	0	31	FOODGNG_Images/0138.jpg	not healthy	10	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	32	FOODGNG_Images/0339.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	33	FOODGNG_Images/0202.jpg	healthy	80	Go	space	space	1	0.661482300027274
+health	Go = healthy    No-go = not healthy	0	34	FOODGNG_Images/0917.jpg	not healthy	1	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	35	FOODGNG_Images/0787.jpg	healthy	80	Go	space	space	1	0.479861299972981
+health	Go = healthy    No-go = not healthy	0	36	FOODGNG_Images/0367.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	37	FOODGNG_Images/0547.jpg	not healthy	10	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	38	FOODGNG_Images/0359.jpg	healthy	75	Go	space	space	1	0.679894100001547
+health	Go = healthy    No-go = not healthy	0	39	FOODGNG_Images/0329.jpg	healthy	80	Go	space	space	1	0.970249800011516
+health	Go = healthy    No-go = not healthy	0	40	FOODGNG_Images/0409.jpg	healthy	90	Go	space	space	1	0.480779500037897
+health	Go = healthy    No-go = not healthy	0	41	FOODGNG_Images/0907.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	42	FOODGNG_Images/0529.jpg	healthy	85	Go	space	space	1	0.473717299988493
+health	Go = healthy    No-go = not healthy	0	43	FOODGNG_Images/0478.jpg	healthy	80	Go	space	space	1	0.515573200013023
+health	Go = healthy    No-go = not healthy	0	44	FOODGNG_Images/0647.jpg	healthy	75	Go	space	space	1	0.614619200001471
+health	Go = healthy    No-go = not healthy	0	45	FOODGNG_Images/0796.jpg	healthy	85	Go	space	space	1	0.625586199981626
+health	Go = healthy    No-go = not healthy	0	46	FOODGNG_Images/0787.jpg	healthy	80	Go	space	space	1	0.515462899988052
+health	Go = healthy    No-go = not healthy	0	47	FOODGNG_Images/0329.jpg	healthy	80	Go	space	space	1	0.671738599950913
+health	Go = healthy    No-go = not healthy	0	48	FOODGNG_Images/0926.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	49	FOODGNG_Images/0263.jpg	healthy	80	Go	space	space	1	0.630738199979533
+health	Go = healthy    No-go = not healthy	0	50	FOODGNG_Images/0367.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	51	FOODGNG_Images/0409.jpg	healthy	90	Go	space	space	1	0.685137199994642
+health	Go = healthy    No-go = not healthy	0	52	FOODGNG_Images/0373.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	53	FOODGNG_Images/0926.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	54	FOODGNG_Images/0640.jpg	healthy	90	Go	space	space	1	0.616346599941608
+health	Go = healthy    No-go = not healthy	0	55	FOODGNG_Images/0796.jpg	healthy	85	Go	space	space	1	0.696060099988244
+health	Go = healthy    No-go = not healthy	0	56	FOODGNG_Images/0647.jpg	healthy	75	Go	space	space	1	0.529674199991859
+health	Go = healthy    No-go = not healthy	0	57	FOODGNG_Images/0263.jpg	healthy	80	Go	space	space	1	0.497031799983233
+health	Go = healthy    No-go = not healthy	0	58	FOODGNG_Images/0640.jpg	healthy	90	Go	space	space	1	0.523883599962573
+health	Go = healthy    No-go = not healthy	0	59	FOODGNG_Images/0329.jpg	healthy	80	Go	space	space	1	0.746822100016288
+health	Go = healthy    No-go = not healthy	0	60	FOODGNG_Images/0529.jpg	healthy	85	Go	space	space	1	0.536874399986118
+health	Go = healthy    No-go = not healthy	0	61	FOODGNG_Images/0844.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	62	FOODGNG_Images/0359.jpg	healthy	75	Go	space	space	1	0.632364999968559
+health	Go = healthy    No-go = not healthy	0	63	FOODGNG_Images/0844.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	64	FOODGNG_Images/0787.jpg	healthy	80	Go	space	space	1	0.520314899971709
+health	Go = healthy    No-go = not healthy	0	65	FOODGNG_Images/0763.jpg	healthy	95	Go	space	space	1	0.561873900005594
+health	Go = healthy    No-go = not healthy	0	66	FOODGNG_Images/0409.jpg	healthy	90	Go	space	space	1	0.758743299986236
+health	Go = healthy    No-go = not healthy	0	67	FOODGNG_Images/0329.jpg	healthy	80	Go	space	space	1	0.726731600007042
+health	Go = healthy    No-go = not healthy	0	68	FOODGNG_Images/0409.jpg	healthy	90	Go	space	space	1	0.707216399954632
+health	Go = healthy    No-go = not healthy	0	69	FOODGNG_Images/0202.jpg	healthy	80	Go	space	space	1	0.477718500012998
+health	Go = healthy    No-go = not healthy	0	70	FOODGNG_Images/0479.jpg	healthy	75	Go	space	space	1	0.451752899971325
+health	Go = healthy    No-go = not healthy	0	71	FOODGNG_Images/0359.jpg	healthy	75	Go	space	space	1	0.455183800018858
+health	Go = healthy    No-go = not healthy	0	72	FOODGNG_Images/0329.jpg	healthy	80	Go	space	space	1	0.541136900021229
+health	Go = healthy    No-go = not healthy	0	73	FOODGNG_Images/0199.jpg	healthy	80	Go	space	space	1	0.433619000017643
+health	Go = healthy    No-go = not healthy	0	74	FOODGNG_Images/0787.jpg	healthy	80	Go	space	space	1	0.454015799972694
+health	Go = healthy    No-go = not healthy	0	75	FOODGNG_Images/0196.jpg	healthy	85	Go	space	space	1	0.516112299985252
+health	Go = healthy    No-go = not healthy	0	76	FOODGNG_Images/0647.jpg	healthy	75	Go	space	space	1	0.413637199962977
+health	Go = healthy    No-go = not healthy	0	77	FOODGNG_Images/0640.jpg	healthy	90	Go	space	space	1	0.373343899962492
+health	Go = healthy    No-go = not healthy	0	78	FOODGNG_Images/0004.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	79	FOODGNG_Images/0359.jpg	healthy	75	Go	space	space	1	0.380111400038004
+health	Go = healthy    No-go = not healthy	0	80	FOODGNG_Images/0796.jpg	healthy	85	Go	space	space	1	0.397019600030035
+health	Go = healthy    No-go = not healthy	0	81	FOODGNG_Images/0196.jpg	healthy	85	Go	space	space	1	0.458424200012814
+health	Go = healthy    No-go = not healthy	0	82	FOODGNG_Images/0478.jpg	healthy	80	Go	space	space	1	0.400337899976876
+health	Go = healthy    No-go = not healthy	0	83	FOODGNG_Images/0004.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	84	FOODGNG_Images/0647.jpg	healthy	75	Go	space	space	1	0.457310000027064
+health	Go = healthy    No-go = not healthy	0	85	FOODGNG_Images/0640.jpg	healthy	90	Go	space	space	1	0.57760939997388
+health	Go = healthy    No-go = not healthy	0	86	FOODGNG_Images/0488.jpg	not healthy	10	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	87	FOODGNG_Images/0263.jpg	healthy	80	Go	space	space	1	0.505149299977347
+health	Go = healthy    No-go = not healthy	0	88	FOODGNG_Images/0640.jpg	healthy	90	Go	space	space	1	0.83013109996682
+health	Go = healthy    No-go = not healthy	0	89	FOODGNG_Images/0202.jpg	healthy	80	Go	space	space	1	0.724166500032879
+health	Go = healthy    No-go = not healthy	0	90	FOODGNG_Images/0529.jpg	healthy	85	Go	space	space	1	0.461998099985067
+health	Go = healthy    No-go = not healthy	0	91	FOODGNG_Images/0196.jpg	healthy	85	Go	space	space	1	0.442312500032131
+health	Go = healthy    No-go = not healthy	0	92	FOODGNG_Images/0763.jpg	healthy	95	Go	space	space	1	0.441852100018878
+health	Go = healthy    No-go = not healthy	0	93	FOODGNG_Images/0478.jpg	healthy	80	Go	space	space	1	0.406668399984483
+health	Go = healthy    No-go = not healthy	0	94	FOODGNG_Images/0763.jpg	healthy	95	Go	space	space	1	0.382344699988607
+health	Go = healthy    No-go = not healthy	0	95	FOODGNG_Images/0907.jpg	not healthy	5	NoGo	None	None	1	NaN
+health	Go = healthy    No-go = not healthy	0	96	FOODGNG_Images/0202.jpg	healthy	80	Go	space	space	1	0.450494799995795
+health	Go = healthy    No-go = not healthy	0	97	FOODGNG_Images/0787.jpg	healthy	80	Go	space	space	1	0.38624369999161
+health	Go = healthy    No-go = not healthy	0	98	FOODGNG_Images/0478.jpg	healthy	80	Go	space	space	1	0.373479400004726
+health	Go = healthy    No-go = not healthy	0	99	FOODGNG_Images/0679.jpg	not healthy	5	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	0	FOODGNG_Images/0250.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	1	FOODGNG_Images/0445.jpg	not tasty	0	Go	space	space	1	0.661483099975158
+tasteRev	Go = not tasty    No-go = tasty	1	2	FOODGNG_Images/0911.jpg	not tasty	3	Go	space	space	1	0.71793240000261
+tasteRev	Go = not tasty    No-go = tasty	1	3	FOODGNG_Images/0567.jpg	not tasty	5	Go	space	space	1	0.709510899963789
+tasteRev	Go = not tasty    No-go = tasty	1	4	FOODGNG_Images/0797.jpg	not tasty	0	Go	space	space	1	0.798762399994303
+tasteRev	Go = not tasty    No-go = tasty	1	5	FOODGNG_Images/0250.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	6	FOODGNG_Images/0913.jpg	not tasty	1	Go	space	space	1	0.531626100011636
+tasteRev	Go = not tasty    No-go = tasty	1	7	FOODGNG_Images/0916.jpg	not tasty	0	Go	space	space	1	0.671630299999379
+tasteRev	Go = not tasty    No-go = tasty	1	8	FOODGNG_Images/0445.jpg	not tasty	0	Go	space	space	1	0.890204900002573
+tasteRev	Go = not tasty    No-go = tasty	1	9	FOODGNG_Images/0901.jpg	not tasty	5	Go	space	space	1	0.611305199970957
+tasteRev	Go = not tasty    No-go = tasty	1	10	FOODGNG_Images/0918.jpg	not tasty	1	Go	space	space	1	0.568673900037538
+tasteRev	Go = not tasty    No-go = tasty	1	11	FOODGNG_Images/0567.jpg	not tasty	5	Go	space	space	1	0.458163899951614
+tasteRev	Go = not tasty    No-go = tasty	1	12	FOODGNG_Images/0319.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	13	FOODGNG_Images/0438.jpg	not tasty	5	Go	space	space	1	0.538514899963047
+tasteRev	Go = not tasty    No-go = tasty	1	14	FOODGNG_Images/0294.jpg	not tasty	5	Go	space	space	1	0.899289099965245
+tasteRev	Go = not tasty    No-go = tasty	1	15	FOODGNG_Images/0909.jpg	not tasty	1	Go	space	space	1	0.736680599977262
+tasteRev	Go = not tasty    No-go = tasty	1	16	FOODGNG_Images/0713.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	17	FOODGNG_Images/0236.jpg	tasty	80	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	18	FOODGNG_Images/0911.jpg	not tasty	3	Go	space	space	1	0.847846299991943
+tasteRev	Go = not tasty    No-go = tasty	1	19	FOODGNG_Images/0282.jpg	tasty	100	NoGo	None	space	0	1.07708479999565
+tasteRev	Go = not tasty    No-go = tasty	1	20	FOODGNG_Images/0294.jpg	not tasty	5	Go	space	space	1	0.964526299969293
+tasteRev	Go = not tasty    No-go = tasty	1	21	FOODGNG_Images/0797.jpg	not tasty	0	Go	space	space	1	0.830160800018348
+tasteRev	Go = not tasty    No-go = tasty	1	22	FOODGNG_Images/0901.jpg	not tasty	5	Go	space	space	1	0.931332499952987
+tasteRev	Go = not tasty    No-go = tasty	1	23	FOODGNG_Images/0913.jpg	not tasty	1	Go	space	space	1	0.713051199971233
+tasteRev	Go = not tasty    No-go = tasty	1	24	FOODGNG_Images/0236.jpg	tasty	80	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	25	FOODGNG_Images/0438.jpg	not tasty	5	Go	space	space	1	0.643880799994804
+tasteRev	Go = not tasty    No-go = tasty	1	26	FOODGNG_Images/0918.jpg	not tasty	1	Go	space	space	1	0.597196400049143
+tasteRev	Go = not tasty    No-go = tasty	1	27	FOODGNG_Images/0294.jpg	not tasty	5	Go	space	space	1	1.43697590002557
+tasteRev	Go = not tasty    No-go = tasty	1	28	FOODGNG_Images/0902.jpg	not tasty	5	Go	space	space	1	0.957025799958501
+tasteRev	Go = not tasty    No-go = tasty	1	29	FOODGNG_Images/0046.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	30	FOODGNG_Images/0916.jpg	not tasty	0	Go	space	space	1	0.497003399941605
+tasteRev	Go = not tasty    No-go = tasty	1	31	FOODGNG_Images/0234.jpg	tasty	80	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	32	FOODGNG_Images/0107.jpg	tasty	90	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	33	FOODGNG_Images/0901.jpg	not tasty	5	Go	space	space	1	1.05670059996191
+tasteRev	Go = not tasty    No-go = tasty	1	34	FOODGNG_Images/0445.jpg	not tasty	0	Go	space	space	1	0.636950199957937
+tasteRev	Go = not tasty    No-go = tasty	1	35	FOODGNG_Images/0924.jpg	not tasty	1	Go	space	space	1	1.34350189997349
+tasteRev	Go = not tasty    No-go = tasty	1	36	FOODGNG_Images/0913.jpg	not tasty	1	Go	space	space	1	0.754993100010324
+tasteRev	Go = not tasty    No-go = tasty	1	37	FOODGNG_Images/0918.jpg	not tasty	1	Go	space	space	1	0.539428299991414
+tasteRev	Go = not tasty    No-go = tasty	1	38	FOODGNG_Images/0900.jpg	not tasty	0	Go	space	space	1	0.936887999996543
+tasteRev	Go = not tasty    No-go = tasty	1	39	FOODGNG_Images/0445.jpg	not tasty	0	Go	space	space	1	0.585751499980688
+tasteRev	Go = not tasty    No-go = tasty	1	40	FOODGNG_Images/0900.jpg	not tasty	0	Go	space	space	1	0.969490899995435
+tasteRev	Go = not tasty    No-go = tasty	1	41	FOODGNG_Images/0909.jpg	not tasty	1	Go	space	space	1	0.71069360000547
+tasteRev	Go = not tasty    No-go = tasty	1	42	FOODGNG_Images/0923.jpg	not tasty	0	Go	space	space	1	0.647923599986825
+tasteRev	Go = not tasty    No-go = tasty	1	43	FOODGNG_Images/0916.jpg	not tasty	0	Go	space	space	1	0.551459000038449
+tasteRev	Go = not tasty    No-go = tasty	1	44	FOODGNG_Images/0841.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	45	FOODGNG_Images/0902.jpg	not tasty	5	Go	space	space	1	0.804184900014661
+tasteRev	Go = not tasty    No-go = tasty	1	46	FOODGNG_Images/0567.jpg	not tasty	5	Go	space	space	1	0.63606270001037
+tasteRev	Go = not tasty    No-go = tasty	1	47	FOODGNG_Images/0445.jpg	not tasty	0	Go	space	space	1	0.454390100028832
+tasteRev	Go = not tasty    No-go = tasty	1	48	FOODGNG_Images/0107.jpg	tasty	90	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	49	FOODGNG_Images/0771.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	50	FOODGNG_Images/0438.jpg	not tasty	5	Go	space	space	1	0.515971099957824
+tasteRev	Go = not tasty    No-go = tasty	1	51	FOODGNG_Images/0567.jpg	not tasty	5	Go	space	space	1	1.60771430004388
+tasteRev	Go = not tasty    No-go = tasty	1	52	FOODGNG_Images/0797.jpg	not tasty	0	Go	space	space	1	1.04168089997256
+tasteRev	Go = not tasty    No-go = tasty	1	53	FOODGNG_Images/0319.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	54	FOODGNG_Images/0567.jpg	not tasty	5	Go	space	space	1	0.717699999979232
+tasteRev	Go = not tasty    No-go = tasty	1	55	FOODGNG_Images/0924.jpg	not tasty	1	Go	space	space	1	1.44025759998476
+tasteRev	Go = not tasty    No-go = tasty	1	56	FOODGNG_Images/0797.jpg	not tasty	0	Go	space	space	1	0.624352200014982
+tasteRev	Go = not tasty    No-go = tasty	1	57	FOODGNG_Images/0900.jpg	not tasty	0	Go	space	space	1	0.90306599996984
+tasteRev	Go = not tasty    No-go = tasty	1	58	FOODGNG_Images/0909.jpg	not tasty	1	Go	space	space	1	0.50172240001848
+tasteRev	Go = not tasty    No-go = tasty	1	59	FOODGNG_Images/0901.jpg	not tasty	5	Go	space	space	1	0.566223100002389
+tasteRev	Go = not tasty    No-go = tasty	1	60	FOODGNG_Images/0911.jpg	not tasty	3	Go	space	space	1	0.567327499971725
+tasteRev	Go = not tasty    No-go = tasty	1	61	FOODGNG_Images/0916.jpg	not tasty	0	Go	space	space	1	0.5550954999635
+tasteRev	Go = not tasty    No-go = tasty	1	62	FOODGNG_Images/0438.jpg	not tasty	5	Go	space	space	1	0.523709300032351
+tasteRev	Go = not tasty    No-go = tasty	1	63	FOODGNG_Images/0881.jpg	tasty	90	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	64	FOODGNG_Images/0923.jpg	not tasty	0	Go	space	space	1	0.708573999989312
+tasteRev	Go = not tasty    No-go = tasty	1	65	FOODGNG_Images/0909.jpg	not tasty	1	Go	space	space	1	0.519659299985506
+tasteRev	Go = not tasty    No-go = tasty	1	66	FOODGNG_Images/0113.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	67	FOODGNG_Images/0909.jpg	not tasty	1	Go	space	space	1	0.85658429999603
+tasteRev	Go = not tasty    No-go = tasty	1	68	FOODGNG_Images/0900.jpg	not tasty	0	Go	space	space	1	0.664929800026584
+tasteRev	Go = not tasty    No-go = tasty	1	69	FOODGNG_Images/0438.jpg	not tasty	5	Go	space	space	1	0.571694899990689
+tasteRev	Go = not tasty    No-go = tasty	1	70	FOODGNG_Images/0797.jpg	not tasty	0	Go	space	space	1	0.496523700014222
+tasteRev	Go = not tasty    No-go = tasty	1	71	FOODGNG_Images/0924.jpg	not tasty	1	Go	space	space	1	0.850068299972918
+tasteRev	Go = not tasty    No-go = tasty	1	72	FOODGNG_Images/0113.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	73	FOODGNG_Images/0901.jpg	not tasty	5	Go	space	space	1	0.529165699961595
+tasteRev	Go = not tasty    No-go = tasty	1	74	FOODGNG_Images/0911.jpg	not tasty	3	Go	space	space	1	0.645543499966152
+tasteRev	Go = not tasty    No-go = tasty	1	75	FOODGNG_Images/0294.jpg	not tasty	5	Go	space	space	1	0.669564099982381
+tasteRev	Go = not tasty    No-go = tasty	1	76	FOODGNG_Images/0365.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	77	FOODGNG_Images/0902.jpg	not tasty	5	Go	space	space	1	0.611521899991203
+tasteRev	Go = not tasty    No-go = tasty	1	78	FOODGNG_Images/0913.jpg	not tasty	1	Go	space	space	1	0.898846600030083
+tasteRev	Go = not tasty    No-go = tasty	1	79	FOODGNG_Images/0918.jpg	not tasty	1	Go	space	space	1	0.505435700004455
+tasteRev	Go = not tasty    No-go = tasty	1	80	FOODGNG_Images/0282.jpg	tasty	100	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	81	FOODGNG_Images/0294.jpg	not tasty	5	Go	space	space	1	1.23906940000597
+tasteRev	Go = not tasty    No-go = tasty	1	82	FOODGNG_Images/0924.jpg	not tasty	1	Go	space	space	1	0.574892300006468
+tasteRev	Go = not tasty    No-go = tasty	1	83	FOODGNG_Images/0900.jpg	not tasty	0	Go	space	space	1	0.535365200019442
+tasteRev	Go = not tasty    No-go = tasty	1	84	FOODGNG_Images/0365.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	85	FOODGNG_Images/0841.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	86	FOODGNG_Images/0923.jpg	not tasty	0	Go	space	space	1	0.539116100000683
+tasteRev	Go = not tasty    No-go = tasty	1	87	FOODGNG_Images/0902.jpg	not tasty	5	Go	space	space	1	0.789006799983326
+tasteRev	Go = not tasty    No-go = tasty	1	88	FOODGNG_Images/0924.jpg	not tasty	1	Go	space	space	1	0.556458899984136
+tasteRev	Go = not tasty    No-go = tasty	1	89	FOODGNG_Images/0918.jpg	not tasty	1	Go	space	space	1	0.535158199956641
+tasteRev	Go = not tasty    No-go = tasty	1	90	FOODGNG_Images/0116.jpg	tasty	85	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	91	FOODGNG_Images/0916.jpg	not tasty	0	Go	space	space	1	0.595927699992899
+tasteRev	Go = not tasty    No-go = tasty	1	92	FOODGNG_Images/0913.jpg	not tasty	1	Go	space	space	1	0.630534600000829
+tasteRev	Go = not tasty    No-go = tasty	1	93	FOODGNG_Images/0713.jpg	tasty	95	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	94	FOODGNG_Images/0234.jpg	tasty	80	NoGo	None	None	1	NaN
+tasteRev	Go = not tasty    No-go = tasty	1	95	FOODGNG_Images/0923.jpg	not tasty	0	Go	space	space	1	0.696949399949517
+tasteRev	Go = not tasty    No-go = tasty	1	96	FOODGNG_Images/0902.jpg	not tasty	5	Go	space	space	1	0.824275199964177
+tasteRev	Go = not tasty    No-go = tasty	1	97	FOODGNG_Images/0911.jpg	not tasty	3	Go	space	space	1	1.96356619999278
+tasteRev	Go = not tasty    No-go = tasty	1	98	FOODGNG_Images/0923.jpg	not tasty	0	Go	space	space	1	0.944718000013381
+tasteRev	Go = not tasty    No-go = tasty	1	99	FOODGNG_Images/0560.jpg	tasty	95	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	0	FOODGNG_Images/0282.jpg	tasty	100	Go	space	space	1	0.440085700014606
+taste	Go = tasty    No-go = not tasty	2	1	FOODGNG_Images/0901.jpg	not tasty	5	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	2	FOODGNG_Images/0107.jpg	tasty	90	Go	space	space	1	0.698855199967511
+taste	Go = tasty    No-go = not tasty	2	3	FOODGNG_Images/0923.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	4	FOODGNG_Images/0282.jpg	tasty	100	Go	space	space	1	0.600837600009982
+taste	Go = tasty    No-go = not tasty	2	5	FOODGNG_Images/0107.jpg	tasty	90	Go	space	space	1	0.494124700024258
+taste	Go = tasty    No-go = not tasty	2	6	FOODGNG_Images/0911.jpg	not tasty	3	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	7	FOODGNG_Images/0113.jpg	tasty	95	Go	space	space	1	0.799705999961589
+taste	Go = tasty    No-go = not tasty	2	8	FOODGNG_Images/0116.jpg	tasty	85	Go	space	space	1	0.642985599988606
+taste	Go = tasty    No-go = not tasty	2	9	FOODGNG_Images/0560.jpg	tasty	95	Go	space	space	1	0.61725640000077
+taste	Go = tasty    No-go = not tasty	2	10	FOODGNG_Images/0116.jpg	tasty	85	Go	space	space	1	0.614466600003652
+taste	Go = tasty    No-go = not tasty	2	11	FOODGNG_Images/0113.jpg	tasty	95	Go	space	space	1	0.962483700015582
+taste	Go = tasty    No-go = not tasty	2	12	FOODGNG_Images/0365.jpg	tasty	85	Go	space	space	1	0.559613500023261
+taste	Go = tasty    No-go = not tasty	2	13	FOODGNG_Images/0713.jpg	tasty	95	Go	space	space	1	0.510483899968676
+taste	Go = tasty    No-go = not tasty	2	14	FOODGNG_Images/0560.jpg	tasty	95	Go	space	space	1	0.407401399977971
+taste	Go = tasty    No-go = not tasty	2	15	FOODGNG_Images/0113.jpg	tasty	95	Go	space	space	1	0.301061199977994
+taste	Go = tasty    No-go = not tasty	2	16	FOODGNG_Images/0713.jpg	tasty	95	Go	space	space	1	0.229953399975784
+taste	Go = tasty    No-go = not tasty	2	17	FOODGNG_Images/0046.jpg	tasty	95	Go	space	space	1	0.368577699991874
+taste	Go = tasty    No-go = not tasty	2	18	FOODGNG_Images/0909.jpg	not tasty	1	NoGo	None	space	0	0.258561900001951
+taste	Go = tasty    No-go = not tasty	2	19	FOODGNG_Images/0771.jpg	tasty	95	Go	space	space	1	0.527830600040033
+taste	Go = tasty    No-go = not tasty	2	20	FOODGNG_Images/0924.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	21	FOODGNG_Images/0567.jpg	not tasty	5	NoGo	None	space	0	0.382477100007236
+taste	Go = tasty    No-go = not tasty	2	22	FOODGNG_Images/0234.jpg	tasty	80	Go	space	space	1	0.592700699984562
+taste	Go = tasty    No-go = not tasty	2	23	FOODGNG_Images/0771.jpg	tasty	95	Go	space	space	1	0.455226499994751
+taste	Go = tasty    No-go = not tasty	2	24	FOODGNG_Images/0881.jpg	tasty	90	Go	space	space	1	0.493782299978193
+taste	Go = tasty    No-go = not tasty	2	25	FOODGNG_Images/0236.jpg	tasty	80	Go	space	space	1	0.59161059994949
+taste	Go = tasty    No-go = not tasty	2	26	FOODGNG_Images/0116.jpg	tasty	85	Go	space	space	1	0.460838600003626
+taste	Go = tasty    No-go = not tasty	2	27	FOODGNG_Images/0841.jpg	tasty	85	Go	space	space	1	0.50600959995063
+taste	Go = tasty    No-go = not tasty	2	28	FOODGNG_Images/0319.jpg	tasty	95	Go	space	space	1	0.556705299997702
+taste	Go = tasty    No-go = not tasty	2	29	FOODGNG_Images/0918.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	30	FOODGNG_Images/0250.jpg	tasty	85	Go	space	space	1	0.421108400041703
+taste	Go = tasty    No-go = not tasty	2	31	FOODGNG_Images/0234.jpg	tasty	80	Go	space	space	1	0.530815500009339
+taste	Go = tasty    No-go = not tasty	2	32	FOODGNG_Images/0713.jpg	tasty	95	Go	space	space	1	0.466447399987374
+taste	Go = tasty    No-go = not tasty	2	33	FOODGNG_Images/0319.jpg	tasty	95	Go	space	space	1	0.565563999989536
+taste	Go = tasty    No-go = not tasty	2	34	FOODGNG_Images/0913.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	35	FOODGNG_Images/0365.jpg	tasty	85	Go	space	space	1	0.509906299994327
+taste	Go = tasty    No-go = not tasty	2	36	FOODGNG_Images/0438.jpg	not tasty	5	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	37	FOODGNG_Images/0445.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	38	FOODGNG_Images/0881.jpg	tasty	90	Go	space	space	1	0.707175599993207
+taste	Go = tasty    No-go = not tasty	2	39	FOODGNG_Images/0113.jpg	tasty	95	Go	space	space	1	1.82557699998142
+taste	Go = tasty    No-go = not tasty	2	40	FOODGNG_Images/0046.jpg	tasty	95	Go	space	space	1	0.82099500001641
+taste	Go = tasty    No-go = not tasty	2	41	FOODGNG_Images/0771.jpg	tasty	95	Go	space	space	1	0.821190600050613
+taste	Go = tasty    No-go = not tasty	2	42	FOODGNG_Images/0918.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	43	FOODGNG_Images/0236.jpg	tasty	80	Go	space	None	0	NaN
+taste	Go = tasty    No-go = not tasty	2	44	FOODGNG_Images/0913.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	45	FOODGNG_Images/0282.jpg	tasty	100	Go	space	space	1	0.658983399975114
+taste	Go = tasty    No-go = not tasty	2	46	FOODGNG_Images/0841.jpg	tasty	85	Go	space	None	0	NaN
+taste	Go = tasty    No-go = not tasty	2	47	FOODGNG_Images/0234.jpg	tasty	80	Go	space	space	1	0.665496799978428
+taste	Go = tasty    No-go = not tasty	2	48	FOODGNG_Images/0113.jpg	tasty	95	Go	space	None	0	NaN
+taste	Go = tasty    No-go = not tasty	2	49	FOODGNG_Images/0900.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	50	FOODGNG_Images/0116.jpg	tasty	85	Go	space	space	1	0.495259599993005
+taste	Go = tasty    No-go = not tasty	2	51	FOODGNG_Images/0771.jpg	tasty	95	Go	space	space	1	0.446997600025497
+taste	Go = tasty    No-go = not tasty	2	52	FOODGNG_Images/0923.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	53	FOODGNG_Images/0560.jpg	tasty	95	Go	space	space	1	0.465907200006768
+taste	Go = tasty    No-go = not tasty	2	54	FOODGNG_Images/0365.jpg	tasty	85	Go	space	space	1	0.553071699978318
+taste	Go = tasty    No-go = not tasty	2	55	FOODGNG_Images/0902.jpg	not tasty	5	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	56	FOODGNG_Images/0771.jpg	tasty	95	Go	space	space	1	0.494456799991895
+taste	Go = tasty    No-go = not tasty	2	57	FOODGNG_Images/0881.jpg	tasty	90	Go	space	space	1	0.469293499947526
+taste	Go = tasty    No-go = not tasty	2	58	FOODGNG_Images/0107.jpg	tasty	90	Go	space	space	1	0.58540300000459
+taste	Go = tasty    No-go = not tasty	2	59	FOODGNG_Images/0916.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	60	FOODGNG_Images/0900.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	61	FOODGNG_Images/0560.jpg	tasty	95	Go	space	space	1	0.576881000015419
+taste	Go = tasty    No-go = not tasty	2	62	FOODGNG_Images/0797.jpg	not tasty	0	NoGo	None	space	0	1.09618659998523
+taste	Go = tasty    No-go = not tasty	2	63	FOODGNG_Images/0319.jpg	tasty	95	Go	space	space	1	0.481283199973404
+taste	Go = tasty    No-go = not tasty	2	64	FOODGNG_Images/0916.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	65	FOODGNG_Images/0107.jpg	tasty	90	Go	space	space	1	0.736885899968911
+taste	Go = tasty    No-go = not tasty	2	66	FOODGNG_Images/0236.jpg	tasty	80	Go	space	space	1	1.09381669998402
+taste	Go = tasty    No-go = not tasty	2	67	FOODGNG_Images/0445.jpg	not tasty	0	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	68	FOODGNG_Images/0116.jpg	tasty	85	Go	space	space	1	0.500218600034714
+taste	Go = tasty    No-go = not tasty	2	69	FOODGNG_Images/0250.jpg	tasty	85	Go	space	space	1	0.551129299972672
+taste	Go = tasty    No-go = not tasty	2	70	FOODGNG_Images/0560.jpg	tasty	95	Go	space	space	1	0.772483200009447
+taste	Go = tasty    No-go = not tasty	2	71	FOODGNG_Images/0236.jpg	tasty	80	Go	space	space	1	0.986308799998369
+taste	Go = tasty    No-go = not tasty	2	72	FOODGNG_Images/0250.jpg	tasty	85	Go	space	space	1	0.613143700000364
+taste	Go = tasty    No-go = not tasty	2	73	FOODGNG_Images/0319.jpg	tasty	95	Go	space	space	1	0.601881499984302
+taste	Go = tasty    No-go = not tasty	2	74	FOODGNG_Images/0881.jpg	tasty	90	Go	space	space	1	0.50409609999042
+taste	Go = tasty    No-go = not tasty	2	75	FOODGNG_Images/0713.jpg	tasty	95	Go	space	space	1	0.534356000018306
+taste	Go = tasty    No-go = not tasty	2	76	FOODGNG_Images/0841.jpg	tasty	85	Go	space	space	1	1.22580040001776
+taste	Go = tasty    No-go = not tasty	2	77	FOODGNG_Images/0365.jpg	tasty	85	Go	space	space	1	0.585345799976494
+taste	Go = tasty    No-go = not tasty	2	78	FOODGNG_Images/0250.jpg	tasty	85	Go	space	space	1	0.409553400008008
+taste	Go = tasty    No-go = not tasty	2	79	FOODGNG_Images/0841.jpg	tasty	85	Go	space	space	1	0.373061099962797
+taste	Go = tasty    No-go = not tasty	2	80	FOODGNG_Images/0909.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	81	FOODGNG_Images/0294.jpg	not tasty	5	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	82	FOODGNG_Images/0319.jpg	tasty	95	Go	space	space	1	0.514513999980409
+taste	Go = tasty    No-go = not tasty	2	83	FOODGNG_Images/0234.jpg	tasty	80	Go	space	space	1	0.912006400001701
+taste	Go = tasty    No-go = not tasty	2	84	FOODGNG_Images/0046.jpg	tasty	95	Go	space	space	1	0.846332800050732
+taste	Go = tasty    No-go = not tasty	2	85	FOODGNG_Images/0924.jpg	not tasty	1	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	86	FOODGNG_Images/0282.jpg	tasty	100	Go	space	space	1	0.503142100002151
+taste	Go = tasty    No-go = not tasty	2	87	FOODGNG_Images/0107.jpg	tasty	90	Go	space	space	1	0.609531599970069
+taste	Go = tasty    No-go = not tasty	2	88	FOODGNG_Images/0236.jpg	tasty	80	Go	space	space	1	0.567195800016634
+taste	Go = tasty    No-go = not tasty	2	89	FOODGNG_Images/0046.jpg	tasty	95	Go	space	space	1	1.32690850005019
+taste	Go = tasty    No-go = not tasty	2	90	FOODGNG_Images/0797.jpg	not tasty	0	NoGo	None	space	0	0.631962200044654
+taste	Go = tasty    No-go = not tasty	2	91	FOODGNG_Images/0365.jpg	tasty	85	Go	space	space	1	0.571627099998295
+taste	Go = tasty    No-go = not tasty	2	92	FOODGNG_Images/0438.jpg	not tasty	5	NoGo	None	None	1	NaN
+taste	Go = tasty    No-go = not tasty	2	93	FOODGNG_Images/0881.jpg	tasty	90	Go	space	space	1	0.525954199954867
+taste	Go = tasty    No-go = not tasty	2	94	FOODGNG_Images/0713.jpg	tasty	95	Go	space	space	1	0.951714500028174
+taste	Go = tasty    No-go = not tasty	2	95	FOODGNG_Images/0234.jpg	tasty	80	Go	space	space	1	0.503144300018903
+taste	Go = tasty    No-go = not tasty	2	96	FOODGNG_Images/0046.jpg	tasty	95	Go	space	space	1	0.634598100034054
+taste	Go = tasty    No-go = not tasty	2	97	FOODGNG_Images/0841.jpg	tasty	85	Go	space	space	1	0.596583299979102
+taste	Go = tasty    No-go = not tasty	2	98	FOODGNG_Images/0250.jpg	tasty	85	Go	space	space	1	1.01733129995409
+taste	Go = tasty    No-go = not tasty	2	99	FOODGNG_Images/0282.jpg	tasty	100	Go	space	space	1	1.27284049999435
+healthRev	Go = not healthy    No-go = healthy	3	0	FOODGNG_Images/0547.jpg	not healthy	10	Go	space	space	1	0.722705399966799
+healthRev	Go = not healthy    No-go = healthy	3	1	FOODGNG_Images/0679.jpg	not healthy	5	Go	space	space	1	0.725191599980462
+healthRev	Go = not healthy    No-go = healthy	3	2	FOODGNG_Images/0373.jpg	not healthy	5	Go	space	space	1	0.541035700007342
+healthRev	Go = not healthy    No-go = healthy	3	3	FOODGNG_Images/0004.jpg	not healthy	5	Go	space	space	1	0.747546299942769
+healthRev	Go = not healthy    No-go = healthy	3	4	FOODGNG_Images/0763.jpg	healthy	95	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	5	FOODGNG_Images/0907.jpg	not healthy	5	Go	space	space	1	0.479876000026707
+healthRev	Go = not healthy    No-go = healthy	3	6	FOODGNG_Images/0202.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	7	FOODGNG_Images/0926.jpg	not healthy	5	Go	space	space	1	0.478242700046394
+healthRev	Go = not healthy    No-go = healthy	3	8	FOODGNG_Images/0145.jpg	not healthy	10	Go	space	space	1	1.07699189998675
+healthRev	Go = not healthy    No-go = healthy	3	9	FOODGNG_Images/0917.jpg	not healthy	1	Go	space	space	1	0.818957499985117
+healthRev	Go = not healthy    No-go = healthy	3	10	FOODGNG_Images/0373.jpg	not healthy	5	Go	space	space	1	0.537105800001882
+healthRev	Go = not healthy    No-go = healthy	3	11	FOODGNG_Images/0145.jpg	not healthy	10	Go	space	space	1	0.7154026000062
+healthRev	Go = not healthy    No-go = healthy	3	12	FOODGNG_Images/0926.jpg	not healthy	5	Go	space	space	1	0.492020300007425
+healthRev	Go = not healthy    No-go = healthy	3	13	FOODGNG_Images/0488.jpg	not healthy	10	Go	space	space	1	0.950250399997458
+healthRev	Go = not healthy    No-go = healthy	3	14	FOODGNG_Images/0004.jpg	not healthy	5	Go	space	space	1	0.493133700045291
+healthRev	Go = not healthy    No-go = healthy	3	15	FOODGNG_Images/0339.jpg	not healthy	5	Go	space	space	1	0.640147299971431
+healthRev	Go = not healthy    No-go = healthy	3	16	FOODGNG_Images/0676.jpg	not healthy	5	Go	space	space	1	0.940578099980485
+healthRev	Go = not healthy    No-go = healthy	3	17	FOODGNG_Images/0409.jpg	healthy	90	NoGo	None	space	0	0.558048799983226
+healthRev	Go = not healthy    No-go = healthy	3	18	FOODGNG_Images/0547.jpg	not healthy	10	Go	space	space	1	0.606594400014728
+healthRev	Go = not healthy    No-go = healthy	3	19	FOODGNG_Images/0367.jpg	not healthy	5	Go	space	space	1	1.18056300003082
+healthRev	Go = not healthy    No-go = healthy	3	20	FOODGNG_Images/0263.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	21	FOODGNG_Images/0926.jpg	not healthy	5	Go	space	space	1	1.03414010000415
+healthRev	Go = not healthy    No-go = healthy	3	22	FOODGNG_Images/0359.jpg	healthy	75	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	23	FOODGNG_Images/0640.jpg	healthy	90	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	24	FOODGNG_Images/0917.jpg	not healthy	1	Go	space	space	1	0.595020000007935
+healthRev	Go = not healthy    No-go = healthy	3	25	FOODGNG_Images/0373.jpg	not healthy	5	Go	space	space	1	0.531579700007569
+healthRev	Go = not healthy    No-go = healthy	3	26	FOODGNG_Images/0907.jpg	not healthy	5	Go	space	space	1	0.589012200012803
+healthRev	Go = not healthy    No-go = healthy	3	27	FOODGNG_Images/0926.jpg	not healthy	5	Go	space	space	1	0.678757799963932
+healthRev	Go = not healthy    No-go = healthy	3	28	FOODGNG_Images/0479.jpg	healthy	75	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	29	FOODGNG_Images/0373.jpg	not healthy	5	Go	space	space	1	0.577524099964648
+healthRev	Go = not healthy    No-go = healthy	3	30	FOODGNG_Images/0907.jpg	not healthy	5	Go	space	space	1	0.499089599994477
+healthRev	Go = not healthy    No-go = healthy	3	31	FOODGNG_Images/0679.jpg	not healthy	5	Go	space	space	1	0.518248000007588
+healthRev	Go = not healthy    No-go = healthy	3	32	FOODGNG_Images/0787.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	33	FOODGNG_Images/0676.jpg	not healthy	5	Go	space	space	1	0.768404700036626
+healthRev	Go = not healthy    No-go = healthy	3	34	FOODGNG_Images/0367.jpg	not healthy	5	Go	space	space	1	0.64261619996978
+healthRev	Go = not healthy    No-go = healthy	3	35	FOODGNG_Images/0844.jpg	not healthy	5	Go	space	space	1	0.680005799978971
+healthRev	Go = not healthy    No-go = healthy	3	36	FOODGNG_Images/0640.jpg	healthy	90	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	37	FOODGNG_Images/0917.jpg	not healthy	1	Go	space	space	1	0.592438799969386
+healthRev	Go = not healthy    No-go = healthy	3	38	FOODGNG_Images/0478.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	39	FOODGNG_Images/0196.jpg	healthy	85	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	40	FOODGNG_Images/0145.jpg	not healthy	10	Go	space	space	1	0.852476799977012
+healthRev	Go = not healthy    No-go = healthy	3	41	FOODGNG_Images/0339.jpg	not healthy	5	Go	space	space	1	0.712113099987619
+healthRev	Go = not healthy    No-go = healthy	3	42	FOODGNG_Images/0367.jpg	not healthy	5	Go	space	space	1	0.629124899976887
+healthRev	Go = not healthy    No-go = healthy	3	43	FOODGNG_Images/0202.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	44	FOODGNG_Images/0919.jpg	not healthy	5	Go	space	space	1	0.570410800050013
+healthRev	Go = not healthy    No-go = healthy	3	45	FOODGNG_Images/0844.jpg	not healthy	5	Go	space	space	1	0.672279399994295
+healthRev	Go = not healthy    No-go = healthy	3	46	FOODGNG_Images/0676.jpg	not healthy	5	Go	space	space	1	1.03222120000282
+healthRev	Go = not healthy    No-go = healthy	3	47	FOODGNG_Images/0547.jpg	not healthy	10	Go	space	space	1	1.44403989997227
+healthRev	Go = not healthy    No-go = healthy	3	48	FOODGNG_Images/0004.jpg	not healthy	5	Go	space	space	1	0.569402299996
+healthRev	Go = not healthy    No-go = healthy	3	49	FOODGNG_Images/0329.jpg	healthy	80	NoGo	None	space	0	0.479673299996648
+healthRev	Go = not healthy    No-go = healthy	3	50	FOODGNG_Images/0547.jpg	not healthy	10	Go	space	space	1	0.620872400002554
+healthRev	Go = not healthy    No-go = healthy	3	51	FOODGNG_Images/0329.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	52	FOODGNG_Images/0676.jpg	not healthy	5	Go	space	space	1	0.616506999998819
+healthRev	Go = not healthy    No-go = healthy	3	53	FOODGNG_Images/0488.jpg	not healthy	10	Go	space	space	1	0.561190799984615
+healthRev	Go = not healthy    No-go = healthy	3	54	FOODGNG_Images/0844.jpg	not healthy	5	Go	space	space	1	0.48462359997211
+healthRev	Go = not healthy    No-go = healthy	3	55	FOODGNG_Images/0679.jpg	not healthy	5	Go	space	space	1	0.56725079996977
+healthRev	Go = not healthy    No-go = healthy	3	56	FOODGNG_Images/0647.jpg	healthy	75	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	57	FOODGNG_Images/0339.jpg	not healthy	5	Go	space	space	1	0.596791499992833
+healthRev	Go = not healthy    No-go = healthy	3	58	FOODGNG_Images/0907.jpg	not healthy	5	Go	space	space	1	0.548914999992121
+healthRev	Go = not healthy    No-go = healthy	3	59	FOODGNG_Images/0196.jpg	healthy	85	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	60	FOODGNG_Images/0138.jpg	not healthy	10	Go	space	space	1	0.608315799967386
+healthRev	Go = not healthy    No-go = healthy	3	61	FOODGNG_Images/0263.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	62	FOODGNG_Images/0529.jpg	healthy	85	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	63	FOODGNG_Images/0844.jpg	not healthy	5	Go	space	space	1	1.18172589997994
+healthRev	Go = not healthy    No-go = healthy	3	64	FOODGNG_Images/0138.jpg	not healthy	10	Go	space	space	1	1.02792240004055
+healthRev	Go = not healthy    No-go = healthy	3	65	FOODGNG_Images/0488.jpg	not healthy	10	Go	space	space	1	0.538934400014114
+healthRev	Go = not healthy    No-go = healthy	3	66	FOODGNG_Images/0145.jpg	not healthy	10	Go	space	space	1	0.632085999997798
+healthRev	Go = not healthy    No-go = healthy	3	67	FOODGNG_Images/0367.jpg	not healthy	5	Go	space	space	1	0.53586850001011
+healthRev	Go = not healthy    No-go = healthy	3	68	FOODGNG_Images/0488.jpg	not healthy	10	Go	space	space	1	0.442209800006822
+healthRev	Go = not healthy    No-go = healthy	3	69	FOODGNG_Images/0679.jpg	not healthy	5	Go	space	space	1	0.639892700011842
+healthRev	Go = not healthy    No-go = healthy	3	70	FOODGNG_Images/0359.jpg	healthy	75	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	71	FOODGNG_Images/0138.jpg	not healthy	10	Go	space	space	1	0.512129199982155
+healthRev	Go = not healthy    No-go = healthy	3	72	FOODGNG_Images/0796.jpg	healthy	85	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	73	FOODGNG_Images/0004.jpg	not healthy	5	Go	space	space	1	0.503810300026089
+healthRev	Go = not healthy    No-go = healthy	3	74	FOODGNG_Images/0339.jpg	not healthy	5	Go	space	space	1	0.922240399988368
+healthRev	Go = not healthy    No-go = healthy	3	75	FOODGNG_Images/0138.jpg	not healthy	10	Go	space	space	1	0.741289500030689
+healthRev	Go = not healthy    No-go = healthy	3	76	FOODGNG_Images/0919.jpg	not healthy	5	Go	space	space	1	0.65887380001368
+healthRev	Go = not healthy    No-go = healthy	3	77	FOODGNG_Images/0488.jpg	not healthy	10	Go	space	space	1	0.835139000031631
+healthRev	Go = not healthy    No-go = healthy	3	78	FOODGNG_Images/0917.jpg	not healthy	1	Go	space	space	1	0.540813300001901
+healthRev	Go = not healthy    No-go = healthy	3	79	FOODGNG_Images/0199.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	80	FOODGNG_Images/0367.jpg	not healthy	5	Go	space	space	1	0.529712999996264
+healthRev	Go = not healthy    No-go = healthy	3	81	FOODGNG_Images/0478.jpg	healthy	80	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	82	FOODGNG_Images/0647.jpg	healthy	75	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	83	FOODGNG_Images/0547.jpg	not healthy	10	Go	space	space	1	0.594083399977535
+healthRev	Go = not healthy    No-go = healthy	3	84	FOODGNG_Images/0796.jpg	healthy	85	NoGo	None	None	1	NaN
+healthRev	Go = not healthy    No-go = healthy	3	85	FOODGNG_Images/0373.jpg	not healthy	5	Go	space	space	1	0.901600899989717
+healthRev	Go = not healthy    No-go = healthy	3	86	FOODGNG_Images/0844.jpg	not healthy	5	Go	space	space	1	1.17204689997016
+healthRev	Go = not healthy    No-go = healthy	3	87	FOODGNG_Images/0919.jpg	not healthy	5	Go	space	space	1	0.862442799960263
+healthRev	Go = not healthy    No-go = healthy	3	88	FOODGNG_Images/0004.jpg	not healthy	5	Go	space	space	1	0.745774800016079
+healthRev	Go = not healthy    No-go = healthy	3	89	FOODGNG_Images/0145.jpg	not healthy	10	Go	space	space	1	0.688808000006247
+healthRev	Go = not healthy    No-go = healthy	3	90	FOODGNG_Images/0339.jpg	not healthy	5	Go	space	space	1	0.626168399991002
+healthRev	Go = not healthy    No-go = healthy	3	91	FOODGNG_Images/0919.jpg	not healthy	5	Go	space	space	1	0.611491499992553
+healthRev	Go = not healthy    No-go = healthy	3	92	FOODGNG_Images/0679.jpg	not healthy	5	Go	space	space	1	0.621101299999282
+healthRev	Go = not healthy    No-go = healthy	3	93	FOODGNG_Images/0926.jpg	not healthy	5	Go	space	space	1	0.562699000001885
+healthRev	Go = not healthy    No-go = healthy	3	94	FOODGNG_Images/0907.jpg	not healthy	5	Go	space	space	1	0.586669399985112
+healthRev	Go = not healthy    No-go = healthy	3	95	FOODGNG_Images/0676.jpg	not healthy	5	Go	space	space	1	0.542007900017779
+healthRev	Go = not healthy    No-go = healthy	3	96	FOODGNG_Images/0138.jpg	not healthy	10	Go	space	space	1	0.510844499978703
+healthRev	Go = not healthy    No-go = healthy	3	97	FOODGNG_Images/0763.jpg	healthy	95	NoGo	None	space	0	0.534006100031547
+healthRev	Go = not healthy    No-go = healthy	3	98	FOODGNG_Images/0919.jpg	not healthy	5	Go	space	space	1	0.476284999982454
+healthRev	Go = not healthy    No-go = healthy	3	99	FOODGNG_Images/0917.jpg	not healthy	1	Go	space	space	1	0.528547400026582
