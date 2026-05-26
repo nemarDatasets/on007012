@@ -20,7 +20,7 @@ Separately, normative ratings on the food image stimuli were collected from onli
 
 For more details about the dataset please see the corresponding paper:
 
-[preprint ref]
+Chae, V. J., Grootswagers, T., Bode, S., & Feuerriegel, D. (2025). FOODEEG: An open dataset of human electroencephalographic and behavioural responses to food images (p. 2025.11.07.687287). bioRxiv. https://doi.org/10.1101/2025.11.07.687287
 
 ## Main files
 
