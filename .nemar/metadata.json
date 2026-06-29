@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "FOODEEG: An open dataset of human electroencephalographic and behavioural responses to food images",
+  "description": "FOODEEG is an open dataset comprising electroencephalographic (EEG) and behavioral responses from 117 participants to food images. The dataset includes raw and processed EEG recordings collected during a food categorization task, along with behavioral data from food go/no-go and paired choice tasks. Participants also provided continuous ratings on food attributes (healthiness, tastiness, willingness to eat) and completed questionnaires assessing dietary styles and eating motivations. Normative ratings on 22 food attributes were collected from an additional 624 online participants, providing comprehensive characterization of the food stimuli used.",
+  "methods_description": "EEG data were collected during two testing sessions. In Session 1, participants completed a food categorization task while EEG was recorded, viewing food images for 2 seconds and categorizing them as healthy, tasty, or willing to eat. Each food image was presented three times. Participants then provided continuous ratings (0-100) for each food image. In Session 2, participants completed a food go/no-go task and a food paired choice task. Questionnaire data on dietary style, eating motivations, and hedonism were also collected. Normative ratings on 22 food attributes were collected from online samples.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -28,12 +30,54 @@
       ]
     }
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds007012.v1.1.0",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "EEG"
     },
+    {
+      "term": "food perception"
+    },
+    {
+      "term": "behavioral responses"
+    },
+    {
+      "term": "event-related potentials"
+    },
+    {
+      "term": "food categorization"
+    },
+    {
+      "term": "decision making"
+    },
+    {
+      "term": "food images"
+    },
+    {
+      "term": "go/no-go task"
+    },
+    {
+      "term": "food choice"
+    },
+    {
+      "term": "eating behavior"
+    },
+    {
+      "term": "BIDS"
+    },
+    {
+      "term": "continuous ratings"
+    },
+    {
+      "term": "questionnaire"
+    },
+    {
+      "term": "normative ratings"
+    },
+    {
+      "term": "self-report"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on007012",
       "identifier_type": "URL",
@@ -53,6 +97,11 @@
       "identifier": "10.1101/2025.11.07.687287",
       "identifier_type": "DOI",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds007012.v1.1.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
@@ -66,13 +115,13 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "Neuroimaging Dataset",
   "modalities": [
     "beh",
     "eeg"
   ],
-  "resource_type_specific": "Neuroimaging Dataset",
   "sizes": [
-    "0.0 KB (1 files)"
+    "97.8 GB (463 files)"
   ],
   "formats": [
     ".bdf",
@@ -80,47 +129,8 @@
     ".json",
     ".md",
     ".set",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "FOODEEG is an open dataset comprising electroencephalographic (EEG) and behavioral responses from 117 participants to food images across two testing sessions. The dataset includes raw and processed EEG recordings during a food categorization task, behavioral responses from food go/no-go and paired choice tasks, participant questionnaires assessing dietary styles and motivational tendencies, and normative ratings of food stimuli from 624 online participants across 22 food attributes. This resource enables investigation of neural and behavioral mechanisms underlying food perception and decision-making.",
-  "methods_description": "EEG and behavioral data were collected over two sessions. Session 1 involved a food categorization task where participants viewed food images for 2 seconds and categorized them (yes/no) on healthiness, tastiness, or willingness to eat, followed by continuous 0-100 ratings. Session 2 included a food go/no-go task and a food paired choice task. Normative ratings were collected from online samples on 22 food attributes including nutritive, hedonic, taste, familiarity, and emotional properties.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "food perception"
-    },
-    {
-      "term": "decision-making"
-    },
-    {
-      "term": "behavioral responses"
-    },
-    {
-      "term": "event-related potentials"
-    },
-    {
-      "term": "food categorization"
-    },
-    {
-      "term": "food choice"
-    },
-    {
-      "term": "go/no-go paradigm"
-    },
-    {
-      "term": "normative ratings"
-    },
-    {
-      "term": "food images"
-    },
-    {
-      "term": "stimulus set"
-    },
-    {
-      "term": "open data"
-    }
-  ],
-  "source_hash": "57333e79e68ca7ba72944dd6d2f9bd9eea12a4722aa698448f63a2557cfddb16"
+  "source_hash": "231fa83ad8e7d74b373f33366fda149af0eeed8815dbd0614f9b6a6adabdbe0f"
 }
