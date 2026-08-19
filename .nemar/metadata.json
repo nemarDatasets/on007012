@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "FOODEEG: An open dataset of human electroencephalographic and behavioural responses to food images",
-  "description": "FOODEEG is an open dataset comprising electroencephalographic (EEG) and behavioral responses from 117 participants to food images. The dataset includes raw and processed EEG recordings from a food categorization task, along with behavioral data from food go/no-go and paired choice tasks. Participants also provided continuous ratings on food attributes and completed questionnaires assessing dietary styles and eating motivations, with normative ratings collected from an additional 624 online participants.",
-  "methods_description": "Neural and behavioral data were collected across two sessions. Session 1 involved a food categorization task with EEG recording where participants viewed food images for 2 seconds and categorized them on healthiness, tastiness, or willingness to eat, followed by continuous ratings (0-100) on these dimensions. Session 2 included a food go/no-go task and a food paired choice task. Normative ratings on 22 food attributes were collected from online samples using continuous scales (0-100).",
+  "description": "FOODEEG is an open dataset of electroencephalographic (EEG) and behavioural responses to food images from 117 participants across two testing sessions. Session 1 involved a food categorisation task with continuous EEG recording, while Session 2 comprised a food go/no-go task and a food paired choice task, along with questionnaires on dietary style and eating motivations. The dataset also includes normative ratings on 22 food attributes collected from an independent online sample (N = 624), providing a rich resource for studying neural and behavioural correlates of food-related decision-making.",
+  "methods_description": "EEG was recorded continuously during a food categorisation task in which participants viewed food images for 2 s and judged healthiness, tastiness, or willingness to eat. Each image was presented three times, once per judgment category. In a second session, participants completed a food go/no-go task and a food paired choice task, plus questionnaires assessing dietary style, eating motivations, and hedonism. Raw EEG data are provided in BioSemi (.bdf) format with accompanying events.tsv files, and cleaned continuous EEG derivatives (.set) are provided for 110 participants after exclusion of 7 participants.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -32,46 +32,30 @@
   },
   "keywords": [
     {
-      "term": "EEG"
-    },
-    {
-      "term": "food perception"
-    },
-    {
-      "term": "behavioral responses"
-    },
-    {
-      "term": "food categorization"
-    },
-    {
-      "term": "decision making"
-    },
-    {
-      "term": "neuroimaging"
-    },
-    {
-      "term": "food choice"
-    },
-    {
-      "term": "eating behavior"
-    },
-    {
-      "term": "event-related potentials"
-    },
-    {
-      "term": "go/no-go"
-    },
-    {
-      "term": "BIDS"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "food images"
     },
     {
-      "term": "normative ratings"
+      "term": "food categorisation"
     },
     {
-      "term": "questionnaire"
+      "term": "go/no-go task"
+    },
+    {
+      "term": "Clinical Decision-Making",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000066491"
+    },
+    {
+      "term": "eating behaviour"
+    },
+    {
+      "term": "BIDS"
     }
   ],
   "related_identifiers": [
@@ -103,11 +87,11 @@
   ],
   "funding_references": [
     {
-      "funder_name": "ARC",
+      "funder_name": "Australian Research Council",
       "award_number": "DE220101508"
     },
     {
-      "funder_name": "ARC",
+      "funder_name": "Australian Research Council",
       "award_number": "DE230100380"
     }
   ],
