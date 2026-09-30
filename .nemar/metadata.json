@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "FOODEEG: An open dataset of human electroencephalographic and behavioural responses to food images",
-  "description": "FOODEEG is an open dataset of electroencephalographic (EEG) and behavioural responses to food images from 117 participants across two testing sessions. Session 1 involved a food categorisation task with continuous EEG recording, while Session 2 comprised a food go/no-go task and a food paired choice task, along with questionnaires on dietary style and eating motivations. The dataset also includes normative ratings on 22 food attributes collected from an independent online sample (N = 624), providing a rich resource for studying neural and behavioural correlates of food-related decision-making.",
-  "methods_description": "EEG was recorded continuously during a food categorisation task in which participants viewed food images for 2 s and judged healthiness, tastiness, or willingness to eat. Each image was presented three times, once per judgment category. In a second session, participants completed a food go/no-go task and a food paired choice task, plus questionnaires assessing dietary style, eating motivations, and hedonism. Raw EEG data are provided in BioSemi (.bdf) format with accompanying events.tsv files, and cleaned continuous EEG derivatives (.set) are provided for 110 participants after exclusion of 7 participants.",
+  "description": "FOODEEG is an open dataset of electroencephalographic (EEG) and behavioural responses to food images from 117 participants. In one session, EEG was recorded during a food categorisation task in which participants judged images as healthy, tasty, or something they were willing to eat. In a second session, participants completed a food go/no-go task, a paired choice task, and questionnaires on dietary style and motivation. The dataset also includes raw and cleaned EEG data and normative ratings of the food stimuli from online samples.",
+  "methods_description": "Session 1 recorded EEG (BDF format) while participants viewed food images for 2 s and made yes/no judgements of healthiness, tastiness, or willingness to eat. They then gave continuous 0-100 ratings of each image. Session 2 comprised a food go/no-go task, a food paired choice task, and questionnaires on dietary style, eating motivations, general motivational tendencies and hedonism. Normative ratings on 22 food attributes were collected separately from online samples (N = 624).",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -32,9 +32,7 @@
   },
   "keywords": [
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "term": "EEG"
     },
     {
       "term": "food images"
@@ -46,16 +44,17 @@
       "term": "go/no-go task"
     },
     {
-      "term": "Clinical Decision-Making",
+      "term": "food choice"
+    },
+    {
+      "term": "Electroencephalography",
       "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000066491"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
-      "term": "eating behaviour"
-    },
-    {
-      "term": "BIDS"
+      "term": "Food Preferences",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D005518"
     }
   ],
   "related_identifiers": [
@@ -102,7 +101,7 @@
     "eeg"
   ],
   "sizes": [
-    "97.8 GB (463 files)"
+    "91.10 GB (463 files)"
   ],
   "formats": [
     ".bdf",
